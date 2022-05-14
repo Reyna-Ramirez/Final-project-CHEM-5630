@@ -6,7 +6,7 @@ INPUT: To calculate the center of mass, there must be a file that has the coordi
 
 OUTPUT: This code will compute the center of mass for two molecules and save the result as a file that contains the coordinates of the center of mass for each molecule (center_of_mass_output).
 
-EXECUTION: To execute the program open: calculate_center_of_mass.py or calculate_center_of_mass.ipynb and enter the files for atomic mass and coordinates of the molecules.
+EXECUTION: To execute the program open: calculate_center_of_mass.ipynb and enter the files for atomic mass and coordinates of the molecules.
 
 TEST_INPUT: fake_dimer.xyz contains coordinates for a fake molecule in Angstroms.
 
