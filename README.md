@@ -2,7 +2,7 @@ This program calculates the center of mass of two molecules, in this example a w
 
 Author: Reyna Ramirez
 
-INPUT: To calculate the center of mass, there must be a file that has the coordinates of each atom in the molecules (water_dimer.xyz) and a file that contains the atomic mass of each atom that is present in the molecules, in amu (atomic_mass).
+INPUT: To calculate the center of mass, there must be a file that has the coordinates of each atom in the molecules (water_dimer.xyz) and a file that contains the atomic mass of each atom that is present in the molecules, in amu (atomic_mass). If the file names are different, write the names of the files in the code where indicated.
 
 OUTPUT: This code will compute the center of mass for two molecules and save the result as a file that contains the coordinates of the center of mass for each molecule (center_of_mass_output).
 
